@@ -39,7 +39,7 @@ If a cursor reads a players life command from the game board, it stays alive for
 To download, build and launch the game:
 
 ```
-git clone https://github.com/jongdetim/corewar.git
+git clone https://github.com/tmeulenb/corewar.git
 cd corewar/
 make
 ./virtual_machine/corewar -ncurses ./champions/the_destructor.cor ./resources/champs/examples/bee_gees.cor
