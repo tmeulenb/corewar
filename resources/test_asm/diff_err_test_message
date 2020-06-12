@@ -1,0 +1,6 @@
+Only in ./original_err_cor/: 18_wrong_reg_number.bin
+Only in ./original_err_cor/: 20_invalid_spacing.bin
+Only in ./original_err_cor/: 25_empty_label.bin
+Only in ./original_err_cor/: 26_label_with_new_line_only.bin
+Only in ./original_err_cor/: 27_name_comment_after_ops.bin
+Only in ./original_err_cor/: 29_incorrect_registry_num.bin
